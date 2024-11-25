@@ -1,13 +1,15 @@
 # Hi there, I'm [Mridul Sharma] 👋
 
-I am a student at IIT Bombay, pursuing B.Tech in Chemical Engineering 
-I am passionate about **Data Science** and **Software Development**, proficient in **Python** and **C++**. I enjoy solving real-world problems using technology and am always eager to learn and grow.
+I am a student at IIT Bombay, pursuing B.Tech in Chemical Engineering. I am passionate about **Data Science** and **Software Development**, proficient in **Python** and **C++**. I enjoy solving real-world problems using technology and am always eager to learn and grow.
 
-## 🧑‍💻 My Skills and Experience
-- **Programming Languages**: Python, C++
-- **Web Development**: 
-  - Frontend: HTML, CSS, JavaScript, ReactJS  
-  - Backend: Python Django, PHP  
+### **Technical Skills**
+- **Languages**: Python, C/C++, Java, HTML, CSS, JavaScript, PHP, SQL, Git, MATLAB, LaTeX
+- **Software**: VS Code, Microsoft Office, Autodesk Fusion 360, LaserCAD, GitHub, Figma, Canva, GIMP
+- **Packages**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LangChain, TensorFlow, ReactJS, Python Django, Streamlit
+
+### **Web Development Experience**
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Python Django, PHP  
 - **Courses and Learning**: 
   - Pursuing a **Minor under C-Minds IITB**  
   - Engaged in **Coursera** and **Udemy** courses to enhance my skills.
