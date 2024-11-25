@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm [Mridul Sharma] 👋
 
-<!--
-**Mridul-Sharma17/Mridul-Sharma17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at IIT Bombay, pursuing B.Tech in Chemical Engineering 
+I am passionate about **Data Science** and **Software Development**, proficient in **Python** and **C++**. I enjoy solving real-world problems using technology and am always eager to learn and grow.
 
-Here are some ideas to get you started:
+## 🧑‍💻 My Skills and Experience
+- **Programming Languages**: Python, C++
+- **Web Development**: 
+  - Frontend: HTML, CSS, JavaScript, ReactJS  
+  - Backend: Python Django, PHP  
+- **Courses and Learning**: 
+  - Pursuing a **Minor under C-Minds IITB**  
+  - Engaged in **Coursera** and **Udemy** courses to enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Goals
+I aspire to become a successful **Data Scientist** in the future, contributing to impactful projects and advancing my expertise in data science and machine learning.
+
+## 🌱 Reach Me
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mridul-sharma-48863932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) to discuss collaborations, opportunities, or just to say hi!
